@@ -5,4 +5,4 @@ User-agent: AdsBot-Google
 User-agent: AdsBot-Google-Mobile
 Allow: /
 
-Sitemap: https://songokura.github.io/astanaholod/sitemap.xml
+Sitemap: https://astana-remont-holodilnikov.kz/sitemap.xml
